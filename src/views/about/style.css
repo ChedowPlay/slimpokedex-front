@@ -1,0 +1,17 @@
+.About {
+  background-image: url("./imagemabout.jpg");
+  position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#main-about{
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: arial;
+  border-right: 1px solid #bbb;
+}

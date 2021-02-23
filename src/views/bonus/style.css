@@ -1,0 +1,9 @@
+.Bonus {
+  background-image: url("https://media.tenor.com/images/75f3f1227d1a216564f77752656b9d68/tenor.gif");
+  position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  color: red;
+}
